@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Tell Your World",
+  "base_artist": "livetune feat. 初音ミク",
+  "createdAt": "2026-01-11T10:21:38.532921Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tell Your World",
+      "artist": "livetune feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/01_Tell_Your_World_livetune_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tell Your World",
+      "artist": "livetune feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/02_Tell_Your_World_livetune_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tell Your World",
+      "artist": "livetune feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/03_Tell_Your_World_livetune_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tell Your World",
+      "artist": "kz (livetune)",
+      "has_synced": true,
+      "path": "select/04_Tell_Your_World_kz_(livetune).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tell Your World (PandaBoY Remix)",
+      "artist": "livetune feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_Tell_Your_World_(PandaBoY_Remix)_livetune_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tell Your World [PandaBoY Remix]",
+      "artist": "kz (livetune)",
+      "has_synced": true,
+      "path": "select/06_Tell_Your_World_[PandaBoY_Remix]_kz_(livetune).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tell Your World",
+      "artist": "livetune feat.初音ミク",
+      "has_synced": true,
+      "path": "select/07_Tell_Your_World_livetune_feat.初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tell Your World -English Version-",
+      "artist": "livetune feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/08_Tell_Your_World_-English_Version-_livetune_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tell Your World - English Version",
+      "artist": "livetune/Hatsune Miku",
+      "has_synced": false,
+      "path": "select/09_Tell_Your_World_-_English_Version_livetune_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tell Your World",
+      "artist": "livetune/Hatsune Miku",
+      "has_synced": true,
+      "path": "select/10_Tell_Your_World_livetune_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tell Your World (ft. Hatsune Miku)",
+      "artist": "livetune",
+      "has_synced": true,
+      "path": "select/11_Tell_Your_World_(ft._Hatsune_Miku)_livetune.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tell Your World (Open the Scenery Rmx by fu_mou) [feat. Hatsune Miku]",
+      "artist": "livetune feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/12_Tell_Your_World_(Open_the_Scenery_Rmx_by_fu_mou)_[feat._Hatsune_Miku]_livetune_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tell Your World (open the scenery rmx by fu_mou) (ft. Hatsune Miku)",
+      "artist": "livetune",
+      "has_synced": false,
+      "path": "select/13_Tell_Your_World_(open_the_scenery_rmx_by_fu_mou)_(ft._Hatsune_Miku)_livetune.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tell Your World",
+      "artist": "livetune feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/14_Tell_Your_World_livetune_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tell Your World",
+      "artist": "Livetune (Kz) ft Hatsune Miku",
+      "has_synced": true,
+      "path": "select/15_Tell_Your_World_Livetune_(Kz)_ft_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tell Your World - open the scenery rmx by fu_mou",
+      "artist": "livetune feat. Miku Hatsune",
+      "has_synced": false,
+      "path": "select/16_Tell_Your_World_-_open_the_scenery_rmx_by_fu_mou_livetune_feat._Miku_Hatsune.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tell Your World - open the scenery rmx by fu_mou",
+      "artist": "livetune/Hatsune Miku",
+      "has_synced": false,
+      "path": "select/17_Tell_Your_World_-_open_the_scenery_rmx_by_fu_mou_livetune_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tell Your World (feat. Hatsune Miku)",
+      "artist": "livetune",
+      "has_synced": true,
+      "path": "select/18_Tell_Your_World_(feat._Hatsune_Miku)_livetune.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Tell Your World (open the scenery rmx by fu_mou)",
+      "artist": "livetune feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/19_Tell_Your_World_(open_the_scenery_rmx_by_fu_mou)_livetune_feat._Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Tell Your World",
+      "artist": "livetune feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/20_Tell_Your_World_livetune_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tell Your World (feat. 初音ミク)",
+      "artist": "livetune feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_Tell_Your_World_(feat._初音ミク)_livetune_feat._初音ミク.txt"
+    }
+  ]
+}
