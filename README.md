@@ -1,4 +1,4 @@
-# livetune feat. 初音ミク – Tell Your World
+# livetune – Tell Your World (合作演出：初音未來)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
